@@ -1,89 +1,88 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: My Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Brian Walsh
+BS in Data Science Winter 2027
+Current Position: Student Dispatch Team Lead
 
 
-## Currently
+### Familiar with
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Python, R, Chemistry/Biology/Biochemistry
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+### Bachelors degree in Data Science, Minor in Chemistry    Sept 2021 - April 2027
+BYU-Idaho                                                                                                                Rexburg, ID
+3.7 GPA
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+### Madison High School     Sept 2017 - May 2021
+Rexburg, ID
+3.8 GPA 
+33 ACT score
+Madison High School Swim Team (Fall of 2019 and 2020)
+State Qualifier in 2019 and 2020 seasons
+MVP of 2020 Madison swim team
 
 
-## Occupation
+## Job Experience
 
-`1600`
-__Royal Mint__, London
 
-- Warden
-- Minted coins
+### Campus Dispatcher (Part-time)   April 2024 - Current
+BYU-I
+Rexburg, ID 
+Operated independently and with coworkers to:
+Respond to phone calls and assist people in resolving concerns
+Watched camera footage in relation to legal incidents
+Direct radio traffic of campus security personnel 
+Promoted to Student Team Lead September 8 2025
+Trained new student dispatchers in addition to previous duties
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### Potato Harvest Worker   October 2019 and October 2020
+Jeppesen Farms									            
+Rexburg, ID
+Put in up to 18 hours a day for two weeks in 2019 and 2020 excluding Sundays 
+Operated heavy machinery
+Removed rotten potatoes, dirt clods, and rocks from good potatoes
+
+### Lifeguard, Swim Coach, and Swim Teacher  April 2017 -  September 2021
+Rexburg Rapids									            
+Rexburg, ID
+
+**Lifeguard (2017-2021)**
+Ensured safety around the pool and was first aid/CPR/AED trained
+**Swim Coach (2017-2021)**
+Coached several kids, some later placed highly at State level competitions
+**Swim Teacher (2020-2021)**
+Taught kids safety skills in and around the water and how to improve swimming ability
+
+### Cashier and Gravity Coach   March 2021 - April 2022
+Gravity Factory									            
+Rexburg, ID
+Verified patrons followed rules and stayed safe while also demonstrating acrobatic skills to patrons
+
+### Cashier     March 2021 - September 2021
+Cold Stone									          
+Rexburg, ID
+Ensured cleanliness and great customer service with a team of up to three people
+
+## Other Relevant Experience
+
+Served as a missionary for the Church of Jesus Christ of Latter Day Saints from May 2022 - April 2024. 
+Provided service to my community, taught people about Jesus Christ, and mantained a demanding schedule. 
+
+**Southern Colorado**
+Spent 6 months focusing on teaching people the gospel.
+
+**Southeastern Idaho**
+18 months of service spent working at food banks, temple, libraries, and many other locations who needed volunteers.
+
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2025 -->
