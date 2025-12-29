@@ -4,8 +4,8 @@ subtitle: "My Data Science Portfolio"
 # use quarto markdown to 
 ---
 
-# Resume
-[](https://wal21017-boop.github.io/resume.html)
+# Qualifications
+[Resume](https://wal21017-boop.github.io/resume.html)
 
 ## Other Features in Progress
 
